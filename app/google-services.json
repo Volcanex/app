@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "108946112198",
+    "project_id": "android-f52be",
+    "storage_bucket": "android-f52be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108946112198:android:56b9d5c1660122e77da1c7",
+        "android_client_info": {
+          "package_name": "com.example.cookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108946112198-cv7eqlv8tpred1dr8cbc2s5lgm4652el.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cookingapp",
+            "certificate_hash": "48abde663f72ec835b8430a226ee10820e9ea190"
+          }
+        },
+        {
+          "client_id": "108946112198-5a9uth1fd9lpvunr5t2rhlcqjh7ajkrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-t3JaXKBammMiGlybKkgjkGoDSoq788Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108946112198-5a9uth1fd9lpvunr5t2rhlcqjh7ajkrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
